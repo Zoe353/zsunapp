@@ -1,0 +1,6 @@
+name = "zsunapp"
+type = "webpack"
+account_id = "61c72f2f2d9b5827f1c7585bddcda1b8"
+workers_dev = true
+route = ""
+zone_id = ""
